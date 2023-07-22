@@ -1,5 +1,7 @@
+---
 title: Chat Cybersecurity Recruiter
 author: Zhibeau
+---
 
 # What will be an ideal candidate
 1. Your online profile (LinkedIn, Youtube, etc.) matters: showing up your role as a cybersecurity guy
